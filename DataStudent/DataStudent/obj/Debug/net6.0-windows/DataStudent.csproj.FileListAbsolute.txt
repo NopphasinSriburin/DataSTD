@@ -1,0 +1,17 @@
+C:\Users\nappa\Desktop\DataStudent\DataStudent\bin\Debug\net6.0-windows\DataStudent.exe
+C:\Users\nappa\Desktop\DataStudent\DataStudent\bin\Debug\net6.0-windows\DataStudent.deps.json
+C:\Users\nappa\Desktop\DataStudent\DataStudent\bin\Debug\net6.0-windows\DataStudent.runtimeconfig.json
+C:\Users\nappa\Desktop\DataStudent\DataStudent\bin\Debug\net6.0-windows\DataStudent.dll
+C:\Users\nappa\Desktop\DataStudent\DataStudent\bin\Debug\net6.0-windows\DataStudent.pdb
+C:\Users\nappa\Desktop\DataStudent\DataStudent\obj\Debug\net6.0-windows\DataStudent.csproj.AssemblyReference.cache
+C:\Users\nappa\Desktop\DataStudent\DataStudent\obj\Debug\net6.0-windows\DataStudent.DataStudent.resources
+C:\Users\nappa\Desktop\DataStudent\DataStudent\obj\Debug\net6.0-windows\DataStudent.csproj.GenerateResource.cache
+C:\Users\nappa\Desktop\DataStudent\DataStudent\obj\Debug\net6.0-windows\DataStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nappa\Desktop\DataStudent\DataStudent\obj\Debug\net6.0-windows\DataStudent.AssemblyInfoInputs.cache
+C:\Users\nappa\Desktop\DataStudent\DataStudent\obj\Debug\net6.0-windows\DataStudent.AssemblyInfo.cs
+C:\Users\nappa\Desktop\DataStudent\DataStudent\obj\Debug\net6.0-windows\DataStudent.csproj.CoreCompileInputs.cache
+C:\Users\nappa\Desktop\DataStudent\DataStudent\obj\Debug\net6.0-windows\DataStudent.dll
+C:\Users\nappa\Desktop\DataStudent\DataStudent\obj\Debug\net6.0-windows\refint\DataStudent.dll
+C:\Users\nappa\Desktop\DataStudent\DataStudent\obj\Debug\net6.0-windows\DataStudent.pdb
+C:\Users\nappa\Desktop\DataStudent\DataStudent\obj\Debug\net6.0-windows\DataStudent.genruntimeconfig.cache
+C:\Users\nappa\Desktop\DataStudent\DataStudent\obj\Debug\net6.0-windows\ref\DataStudent.dll
